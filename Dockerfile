@@ -1,5 +1,5 @@
 #
-# GitLab CI react-native-android v0.1
+# GitLab CI react-native-android v0.1.1
 #
 # https://hub.docker.com/r/webcuisine/gitlab-ci-react-native-android/
 # https://github.com/cuisines/gitlab-ci-react-native-android
